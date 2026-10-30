@@ -29,6 +29,8 @@ It builds on the sibling repositories:
 | 06 | [Complex integration](./modules/06_complex_integration/) | contour integrals, Cauchy's theorem and formula, Laurent series, residues |
 | 07 | [Applications](./modules/07_applications/) | phasors, ODEs, Fourier, $z$-transform, fractals, qubits |
 
+**Status:** complete. All 42 notebooks have full theory, worked examples, Python code, complex-plane visualizations, and three tiers of exercises with worked solutions and numerical checks. Every notebook executes end to end under numpy 1.x and 2.x. [`CURRICULUM.md`](./CURRICULUM.md) links each notebook individually.
+
 ## Getting Started
 
 You need a Python 3 environment. Install the dependencies:
